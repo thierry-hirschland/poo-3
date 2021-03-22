@@ -1,0 +1,28 @@
+main {
+    display:flex;
+    flex-wrap: wrap;
+    width: 660px;
+}
+
+.tab {
+
+    border: 1px solid black; 
+    padding: 10;
+    width: 40px;
+    height: 40px;
+}
+
+.Soldier {
+    background-color: brown;
+    border-radius: 5px;
+}
+
+.Archer {
+    background-color: green;
+    border-radius: 5px;
+}
+
+.Unit {
+    background-color: greenyellow;
+    border-radius: 5px;
+}
